@@ -1,0 +1,6 @@
+﻿  Source.cpp
+F:\new holday\A. Plus One on the Subset\Source.cpp(11,17): error C2131: expression did not evaluate to a constant
+F:\new holday\A. Plus One on the Subset\Source.cpp(11,17): message : failure was caused by a read of a variable outside its lifetime
+F:\new holday\A. Plus One on the Subset\Source.cpp(11,17): message : see usage of 'n'
+F:\new holday\A. Plus One on the Subset\Source.cpp(14,8): warning C4552: '>>': result of expression not used
+F:\new holday\A. Plus One on the Subset\Source.cpp(18,31): warning C4552: '<<': result of expression not used
